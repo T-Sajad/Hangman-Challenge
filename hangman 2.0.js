@@ -1,3 +1,6 @@
+//Hangman
+
+
 alert('welcome to hangman');
 
 let Dictionary = ['Dinosaur','monkey','rhino','parrot','gorilla','donkey'];
